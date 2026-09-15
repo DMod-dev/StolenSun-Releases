@@ -9,5 +9,5 @@ The first public build.
 
 - Two adventurers, Wol-Hye and Rokka, each with their own deck, against the kingdom of Krura Dhana.
 - A run can be left from the board's menu and picked up again from *Continue* on the main menu.
-- macOS first; the Windows build is being added to this same release. Neither build is signed
-  yet, so each platform asks once before it opens — the README says what to click.
+- macOS and Windows. Neither build is signed yet, so each platform asks once before it opens —
+  the README says what to click.
