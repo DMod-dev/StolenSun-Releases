@@ -3,6 +3,19 @@
 Newest first. Each heading is a release on the
 [Releases page](https://github.com/DMod-dev/StolenSun-Releases/releases).
 
+## 0.2.1 — 2026-09-19
+
+Windows only, like 0.2.0; three fixes from playing it.
+
+- **The kingdom no longer discards a card for nothing.** It was playing a Secret just to bin it,
+  and you watched "The kingdom discarded a card from its Garrison" with nothing behind it. A
+  Secret is a dead card now; and a kingdom that can truly do nothing says so and passes.
+- **Silence ends with its venture.** Its unused charges leaked into the next venture, so a
+  dungeon's obstacle could go unrevealed turns after the card was played.
+- **Venture gold is Moonlight.** Wol-Hye's per-venture gold has its own name, its own silver coin
+  on the tray, and its own words on the card, the break buttons and in the log — you can see at a
+  glance which purse a price is coming from. Nothing about how it spends changed.
+
 ## 0.2.0 — 2026-09-18
 
 Windows only for now; the macOS build follows separately.
